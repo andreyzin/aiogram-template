@@ -1,0 +1,11 @@
+aiofiles==23.2.1
+aiogram==3.4.1
+aiogram_ui @ git+https://github.com/andreyzin/aiogram_ui.git@3df31249e0ccab345e141c8eca47f5a6dad59f18
+aiohttp==3.9.3
+cachetools==5.3.3
+pydantic==2.5.3
+pydantic_settings==2.2.1
+python-dotenv==1.0.1
+PyYAML==6.0.1
+SQLAlchemy==2.0.27
+typing_extensions==4.10.0
